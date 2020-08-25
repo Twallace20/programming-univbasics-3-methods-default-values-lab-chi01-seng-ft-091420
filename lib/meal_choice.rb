@@ -5,6 +5,6 @@ def meal_choice (veg1, veg2, protien = 'tofu')
   puts "A plate of #{protien} with #{veg1} and #{veg2}."
 end 
 
-def meal_choice (veg1, veg2, protien = 'tofu')
+def meal_choice2 (veg1, veg2, protien = 'tofu')
   puts "A plate of #{protien} with #{veg1} and #{veg2}."
 end 
